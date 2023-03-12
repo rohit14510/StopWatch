@@ -1,0 +1,39 @@
+#stopwatch-display {
+    font-family: fantasy;
+    font-size: 8em;
+    letter-spacing: 7px;
+    text-align: center;
+    color:azure;
+  }
+  #stopwatch{
+    background-image: url(stopwatch.jpg);
+    height: 800px;
+
+  }
+  .text{
+    font-size: 50px;
+  }
+    
+  #controls {
+    text-align: center;
+  }
+  
+  button {
+    background: navy;
+    border: 2px solid deepskyblue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 20px;
+    cursor: pointer;
+  }
+  button:hover{
+    color: aquamarine;
+    background-color: blueviolet;
+  }
+  .btn{
+    width: 90px;
+    height: 90px;
+    font-size: 2em;
+    border-radius: 80px;
+  }
